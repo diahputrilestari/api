@@ -1,0 +1,16 @@
+{
+    "images": [
+      {
+        "Name" : "planet orange",
+        "alt" : "alt planet orange",
+        "src" : "https://res.cloudinary.com/pthim/image/upload/v1571279929/planet-orange_ki23dc.png",
+        "className" : "planet_orange absolute"
+      },
+      {
+        "Name" : "left cloud",
+        "alt" : "left cloud",
+        "src" : "https://res.cloudinary.com/pthim/image/upload/v1571280062/awan_aj4bzp.png",
+        "className" : "left_cloud absolute"
+      }
+    ]
+  }
